@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Datub2002/webdatve.git/static/css/main.e2098a8a.css",
+    "main.js": "/Datub2002/webdatve.git/static/js/main.fd6356e3.js",
+    "static/js/787.011af644.chunk.js": "/Datub2002/webdatve.git/static/js/787.011af644.chunk.js",
+    "static/media/slick.svg": "/Datub2002/webdatve.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Datub2002/webdatve.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Datub2002/webdatve.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Datub2002/webdatve.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Datub2002/webdatve.git/index.html",
+    "static/media/getFetch.cjs": "/Datub2002/webdatve.git/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.e2098a8a.css.map": "/Datub2002/webdatve.git/static/css/main.e2098a8a.css.map",
+    "main.fd6356e3.js.map": "/Datub2002/webdatve.git/static/js/main.fd6356e3.js.map",
+    "787.011af644.chunk.js.map": "/Datub2002/webdatve.git/static/js/787.011af644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2098a8a.css",
+    "static/js/main.fd6356e3.js"
+  ]
+}
