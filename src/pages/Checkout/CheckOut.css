@@ -1,0 +1,26 @@
+.ghe{
+    width: 35px;
+    height: 35px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 15px;
+    background-color: rgb(161, 158, 158) ;
+    color: #fff;
+
+}
+.gheVip{
+    background-color: rgb(230, 155, 17) ;
+}
+.gheDangDat{
+    background-color: rgb(3, 198, 3) !important;
+    
+}
+.gheDaDat{
+    background-color: rgb(226, 8, 8);
+    cursor: no-drop;
+
+}
+.disable{
+    cursor: default !important;
+}

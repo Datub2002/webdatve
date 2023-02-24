@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+
+
+.Font{
+    @apply text-center text-3xl text-green-300 pt-3
+}
+.item1{
+    @apply bg-green-700
+}
+.item2{
+    @apply bg-red-700
+    
+}
+.item3{
+    @apply bg-blue-700
+    
+}

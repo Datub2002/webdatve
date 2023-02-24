@@ -1,0 +1,20 @@
+.slick-prev:before, .slick-next:before {
+
+    color: gray !important;
+    font-size: 2.5rem !important;
+}
+.slick-prev{
+    left: -40px !important;
+}
+.slick-next{
+    right: -23px !important;
+}
+.width-item {
+    width: 100%  !important;
+}
+.active-film{
+    @apply bg-gray-800 text-white;
+}
+.non-active-film{
+    @apply bg-white text-gray-800;
+}
